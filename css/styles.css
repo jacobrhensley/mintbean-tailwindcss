@@ -1,5 +1,48 @@
-@tailwind base;
+@import "tailwindcss/base";
 
-@tailwind components;
+@import "tailwindcss/components";
 
-@tailwind utilities;
+@import "tailwindcss/utilities";
+
+/* 
+.bg-blue-100 #ebf8ff
+.bg-gray-500 #a0aec0
+.bg-green-400 #68d391;
+.bg-blue-600 #3182ce;
+
+green
+--middle-green-yellow: #9DB04Aff;
+--moss-green: #94A74Fff;
+--moss-green-2: #8A9E54ff;
+--moss-green-3: #819559ff;
+--russian-green: #788C5Eff;
+--xanadu: #6E8363ff;
+--xanadu-2: #657A68ff;
+
+blue
+--independence: #425075ff;
+--independence-2: #394564ff;
+--space-cadet: #2F3953ff;
+--space-cadet-2: #262E42ff;
+--raisin-black: #1D2230ff;
+--rich-black-fogra-29: #13171Fff;
+--rich-black-fogra-39: #0A0B0Eff;
+
+gray
+--light-slate-gray: #86929Cff;
+--slate-gray: #77828Eff;
+--slate-gray-2: #697381ff;
+--black-coral: #5A6373ff;
+--independence: #4B5365ff;
+--independence-2: #3D4458ff;
+--space-cadet: #2E344Aff;
+
+white-blue
+--magnolia: #F7F0FFff;
+--lavender-web: #E7E3F5ff;
+--lavender-web-2: #D7D5EAff;
+--light-periwinkle: #C7C8E0ff;
+--periwinkle-crayola: #B7BAD5ff;
+--wild-blue-yonder: #A7ADCBff;
+--wild-blue-yonder-2: #979FC0ff;
+*/
